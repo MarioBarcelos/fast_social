@@ -1,0 +1,8 @@
+[default_db]
+uri = "postgresql://postgres:postgres@db:5432/pamps"
+echo = false
+
+[default.security]
+ALGORITHM = "HS256"
+ACCESS_TOKEN_EXPIRE_MINUTES = 30
+REFRESH_TOKEN_EXPIRE_MINUTES = 600
