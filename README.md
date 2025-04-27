@@ -1,6 +1,6 @@
 # Fast Social
 
-**Fast Social** é uma aplicação desenvolvida com **FastAPI** que implementa autenticação baseada em tokens JWT, gerenciamento de usuários e integração com banco de dados utilizando SQLModel. O projeto é modular e segue boas práticas de desenvolvimento, incluindo suporte para migrações de banco de dados e testes automatizados.
+**Fast Social** é uma aplicação desenvolvida com **FastAPI** que implementa autenticação baseada em tokens JWT, gerenciamento de usuários e integração com banco de dados utilizando SQLModel. O projeto visa simular a realidade aplicada na rede social Twitter, permitindo gerenciar usuários e postagens.
 
 ## Funcionalidades
 
